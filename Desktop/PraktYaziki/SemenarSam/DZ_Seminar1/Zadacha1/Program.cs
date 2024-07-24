@@ -26,3 +26,24 @@ else
     int minnumber = firsnumber;
     Console.Write($"Максимальное число = {maxnumber}, минимальное число = {minnumber}");
 }
+
+// Второй вариант решения:
+
+// Console.Write("Напишите первое число: ");
+// int firsnumber = Convert.ToInt32(Console.ReadLine());
+
+// Console.Write("Напишите второе число: ");
+// int secondnumber = Convert.ToInt32(Console.ReadLine());
+
+// if(firsnumber > secondnumber)
+// {
+//     int maxnumber = firsnumber;
+//     int minnumber = secondnumber;
+// Console.Write("Максимальное число = " + maxnumber + ", минимальное число = " + minnumber);
+// }
+// else
+// {
+//     int maxnumber = secondnumber;
+//     int minnumber = firsnumber;
+// Console.Write("Максимальное число = " + maxnumber + ", минимальное число = " + minnumber);
+// }
