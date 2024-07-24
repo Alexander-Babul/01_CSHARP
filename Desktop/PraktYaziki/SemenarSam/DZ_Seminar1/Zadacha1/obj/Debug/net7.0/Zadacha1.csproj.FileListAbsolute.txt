@@ -1,0 +1,14 @@
+C:\Users\100nout\Desktop\PraktYaziki\SemenarSam\DZ_Seminar1\Zadacha1\bin\Debug\net7.0\Zadacha1.exe
+C:\Users\100nout\Desktop\PraktYaziki\SemenarSam\DZ_Seminar1\Zadacha1\bin\Debug\net7.0\Zadacha1.deps.json
+C:\Users\100nout\Desktop\PraktYaziki\SemenarSam\DZ_Seminar1\Zadacha1\bin\Debug\net7.0\Zadacha1.runtimeconfig.json
+C:\Users\100nout\Desktop\PraktYaziki\SemenarSam\DZ_Seminar1\Zadacha1\bin\Debug\net7.0\Zadacha1.dll
+C:\Users\100nout\Desktop\PraktYaziki\SemenarSam\DZ_Seminar1\Zadacha1\bin\Debug\net7.0\Zadacha1.pdb
+C:\Users\100nout\Desktop\PraktYaziki\SemenarSam\DZ_Seminar1\Zadacha1\obj\Debug\net7.0\Zadacha1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\100nout\Desktop\PraktYaziki\SemenarSam\DZ_Seminar1\Zadacha1\obj\Debug\net7.0\Zadacha1.AssemblyInfoInputs.cache
+C:\Users\100nout\Desktop\PraktYaziki\SemenarSam\DZ_Seminar1\Zadacha1\obj\Debug\net7.0\Zadacha1.AssemblyInfo.cs
+C:\Users\100nout\Desktop\PraktYaziki\SemenarSam\DZ_Seminar1\Zadacha1\obj\Debug\net7.0\Zadacha1.csproj.CoreCompileInputs.cache
+C:\Users\100nout\Desktop\PraktYaziki\SemenarSam\DZ_Seminar1\Zadacha1\obj\Debug\net7.0\Zadacha1.dll
+C:\Users\100nout\Desktop\PraktYaziki\SemenarSam\DZ_Seminar1\Zadacha1\obj\Debug\net7.0\refint\Zadacha1.dll
+C:\Users\100nout\Desktop\PraktYaziki\SemenarSam\DZ_Seminar1\Zadacha1\obj\Debug\net7.0\Zadacha1.pdb
+C:\Users\100nout\Desktop\PraktYaziki\SemenarSam\DZ_Seminar1\Zadacha1\obj\Debug\net7.0\Zadacha1.genruntimeconfig.cache
+C:\Users\100nout\Desktop\PraktYaziki\SemenarSam\DZ_Seminar1\Zadacha1\obj\Debug\net7.0\ref\Zadacha1.dll
